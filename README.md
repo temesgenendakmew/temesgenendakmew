@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/temesgen-endakmew-1a6848122">LinkedIn</a> ·
+  <a href="http://www.linkedin.com/in/temesgen-endakmew-1a6848122">LinkedIn</a> ·
   <a href="mailto:temesgenendakmew@gmail.com">Email</a>
 </p>
 
