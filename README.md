@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Temesgen Endakmew Lenegere</h1>
 
 <p align="center">
-  <strong>AI Engineer · Data Scientist · Information and Data Systems Professional</strong>
+  <strong>AI Researcher · Data Scientist · Technical Educator</strong>
 </p>
 
 <p align="center">
@@ -14,54 +14,9 @@
 </p>
 
 About me
+I am an AI Researcher and Data Scientist based in Addis Ababa, Ethiopia, with an MSc in Information and Data Science and a BSc in Software Engineering. My hands-on AI work began in 2024 when I started my MSc studies at Addis Ababa University. My research focuses on Amharic NLP, representation learning, information retrieval, and accessible AI.
 
-I am an AI Engineer and Data Scientist based in Addis Ababa, Ethiopia, with an MSc in Information and Data Science and a BSc in Software Engineering. My experience combines machine learning, multilingual NLP, database systems, digital reporting, workflow automation and technical training.
-
-I currently work as an ICT Department Head, Trainer and Data Systems Lead at Misrak Polytechnic College. I also support the QIYAS Skills for Jobs project at Selam Children's Village as a part-time Project Officer, monitoring trainee progress from attendance and training through internships and job placement.
-
-Current research interests
-
-Amharic natural language processing and information retrieval
-
-Retrieval-augmented generation and context-aware language systems
-
-Low-resource language datasets, evaluation and responsible AI
-
-Audio representation learning for Ethiopian music and Kinit classification
-
-Accessible AI tools for people with visual impairments
-
-Data-quality systems, dashboards and evidence-based decision support
-
-Featured projects
-
-Amharic Question Answering
-
-Transformer-based extractive and generative question-answering experiments for Amharic using an Amharic BERT checkpoint, BLOOM and public Amharic QA datasets.
-
-Amharic NLP BERT BLOOM Transformers Hugging Face PyTorch
-
-Ethiopian Kinit Classification
-
-Deep-learning experiments for classifying Ambassel, Anchihoye, Bati and Tizita from audio using MERT, Whisper, LoRA and rhythm-aware ensembles.
-
-Audio ML MERT Whisper LoRA Librosa Scikit-learn
-
-Hybrid Retrieval-Guided Amharic Autocorrection
-
-My MSc thesis develops a context-aware Amharic autocorrection framework combining contrastive representation learning, semantic retrieval and correction-oriented reranking.
-
-Contrastive Learning Dense Retrieval FAISS Reranking Amharic NLP
-
-Accessibility-focused AI
-
-Projects include WalkAware obstacle detection and Amharic Braille recognition, using image and sensor processing to improve access to information for people with visual impairments.
-
-Computer Vision Accessibility Image Processing Pattern Recognition
-
-Technical skills
-
-Area
+I also serve as ICT Department Head and Trainer at Misrak Polytechnic College and as a part-time Project Officer on the QIYAS Skills for Jobs project. These roles connect my technical work with teaching, stakeholder collaboration, and practical learner support.
 
 Tools and technologies
 
